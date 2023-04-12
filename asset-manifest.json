@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Noxe-Movies/static/css/main.28aac335.css",
+    "main.js": "/Noxe-Movies/static/js/main.45cc5b51.js",
+    "static/js/787.7f320c1d.chunk.js": "/Noxe-Movies/static/js/787.7f320c1d.chunk.js",
+    "static/media/title-image-1.webp": "/Noxe-Movies/static/media/title-image-1.eb5e2899315f131fed94.eb5e2899315f131fed94.webp",
+    "static/media/fa-solid-900.ttf": "/Noxe-Movies/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Noxe-Movies/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Noxe-Movies/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Noxe-Movies/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Noxe-Movies/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Noxe-Movies/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Noxe-Movies/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Noxe-Movies/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/Noxe-Movies/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Noxe-Movies/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Noxe-Movies/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Noxe-Movies/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Noxe-Movies/index.html",
+    "main.28aac335.css.map": "/Noxe-Movies/static/css/main.28aac335.css.map",
+    "main.45cc5b51.js.map": "/Noxe-Movies/static/js/main.45cc5b51.js.map",
+    "787.7f320c1d.chunk.js.map": "/Noxe-Movies/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28aac335.css",
+    "static/js/main.45cc5b51.js"
+  ]
+}
